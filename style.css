@@ -38,7 +38,7 @@ body{
 
 /*--- Landing Page ---*/
 .home-inner{
-    background-image: url(img/computers.png)
+    background-image: url(computers.png)
 }
 .caption{
     width: 100%;
@@ -125,7 +125,7 @@ h3 .heading{
 
 /*--- Start Resources Section ---*/
 .fixed{
-    background-image: url(img/apple.png);
+    background-image: url(apple.png);
     z-index: -1;
 }
 .dark{
